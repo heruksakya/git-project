@@ -1,0 +1,26 @@
+[
+  {
+    "txn_no": "1",
+    "entry": 1000000.0,
+    "entry_type": "r",
+    "txn_type": "Income"
+  },
+  {
+    "txn_no": "2",
+    "entry": "40000",
+    "entry_type": "p",
+    "txn_type": "Expense"
+  },
+  {
+    "txn_no": "3",
+    "entry": 7500000.0,
+    "entry_type": "c",
+    "txn_type": "Expense"
+  },
+  {
+    "txn_no": "4",
+    "entry": 10500000.0,
+    "entry_type": "r",
+    "txn_type": "Income"
+  }
+]
