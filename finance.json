@@ -4,11 +4,5 @@
     "entry_type": "Received",
     "entry": 750000.0,
     "txn_type": "Income"
-  },
-  {
-    "txn_no": "2",
-    "entry_type": "Pending",
-    "entry": 60000.0,
-    "txn_type": "Expense"
   }
 ]

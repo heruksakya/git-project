@@ -5,7 +5,8 @@ from update import update
 
 
 def inquiry():
-    selection = input("n for New transaction\nr for Read\nd for delete\nu for update\nEnter your choice: ")
+    selection = input("n for New transaction\nr for Read transaction\nd for Delete transaction"
+                      "\nu for Update transaction\nEnter your choice: ")
     selection = selection.lower()
 
     def exit_msg():
